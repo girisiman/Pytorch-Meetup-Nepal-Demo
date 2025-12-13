@@ -12,24 +12,3 @@ A complete, production-ready template demonstrating PyTorch Lightning best pract
 6. **Logging** - TensorBoard & WandB integration
 7. **Callbacks** - Checkpointing, early stopping, LR monitoring
 8. **Reproducibility** - Full seed control and deterministic training
-## 🚀 Quick Start
-
-### Installation
-pip install -r requirements.txt
-Basic Training
-bash
-python training/train.py
-Try Different Hardware Configurations
-Edit config/defaults.yaml:
-
-yaml
-trainer:
-  accelerator: "gpu"  # or "cpu", "tpu"
-  devices: 2          # number of devices
-  precision: "16-mixed"  # mixed precision training
-Debug Mode (Fast Iteration)
-bash
-# Edit config/defaults.yaml
-trainer:
-  fast_dev_run: true  # Run 1 batch only
-  limit_train_batches: 0.1  # Train on 10% of data
