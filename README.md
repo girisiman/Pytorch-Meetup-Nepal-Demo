@@ -12,3 +12,7 @@ A complete,  template demonstrating PyTorch Lightning best practices with CIFAR-
 6. **Logging** - TensorBoard & WandB integration
 7. **Callbacks** - Checkpointing, early stopping, LR monitoring
 8. **Reproducibility** - Full seed control and deterministic training
+## For Quick Demo - Please check out the Colab Notebook
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/girisiman/Pytorch-Meetup-Nepal-Demo/blob/main/quick_demo_colab.ipynb)
+
+**Click the badge above to open this demo in Google Colab!**
