@@ -1,6 +1,6 @@
 # PyTorch Lightning Meetup Demo
 
-A complete, production-ready template demonstrating PyTorch Lightning best practices with CIFAR-10 classification.
+A complete,  template demonstrating PyTorch Lightning best practices with CIFAR-10 classification.
 
 ## 🎯 Key Features Demonstrated
 
