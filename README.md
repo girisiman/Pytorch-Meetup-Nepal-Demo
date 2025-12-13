@@ -12,17 +12,6 @@ A complete, production-ready template demonstrating PyTorch Lightning best pract
 6. **Logging** - TensorBoard & WandB integration
 7. **Callbacks** - Checkpointing, early stopping, LR monitoring
 8. **Reproducibility** - Full seed control and deterministic training
-
-## 📁 Project Structure
-lightning-meetup-demo/
-├── config/ # YAML configuration files
-├── data/ # LightningDataModule for CIFAR-10
-├── models/ # PyTorch models + LightningModules
-├── training/ # Training scripts (Lightning & Fabric)
-└── notebooks/ # Interactive examples
-
-text
-
 ## 🚀 Quick Start
 
 ### Installation
