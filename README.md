@@ -15,7 +15,6 @@ A complete, production-ready template demonstrating PyTorch Lightning best pract
 ## 🚀 Quick Start
 
 ### Installation
-```bash
 pip install -r requirements.txt
 Basic Training
 bash
